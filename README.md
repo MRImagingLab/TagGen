@@ -25,7 +25,7 @@ We developed a diffusion-based generative super-resolution model for MR tagging 
 ### Evaluation on prospective data
 - Prospectively acquired low-resolution MR tagging images for a volunteer with a rate-10 acceleration of the two-chamber view on a 1.5T scanner.
 <p align="center">
-  <img src="figures/Figure 3.png" width="70%" alt="figures/Figure 3" />
+  <img src="figures/Figure 3.png" width="65%" alt="figures/Figure 3" />
 </p>
 
 - Prospectively acquired low-resolution MR tagging images for a patient with a nominal rate-10 acceleration of the four-chamber view on a 3T scanner.
@@ -35,7 +35,7 @@ We developed a diffusion-based generative super-resolution model for MR tagging 
 
 - TagGen in enhancing prospectively acquired low-resolution cine tagging MRI images for a patient with a rate-10 acceleration of two-chamber, three-chamber, and four-chamber views acquired on a 1.5T scanner.
 <p align="center">
-  <img src="figures/Figure S1.gif" width="50%" alt="figures/Figure S1" />
+  <img src="figures/Figure S1.gif" width="70%" alt="figures/Figure S1" />
 </p>
 
 ## Citation
