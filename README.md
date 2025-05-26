@@ -41,6 +41,8 @@ We developed a diffusion-based generative super-resolution model for MR tagging 
 ## Citation
 If this work is helpful for your research, please consider citing:
 
-Sun C, Thornburgh C, Wang Y, Kumar S, Altes TA. TagGen: Diffusion-based generative model for cardiac MR tagging super resolution. Magn Reson Med 2025;94(1):362-372.
+- [TagGen: Diffusion-based generative model for cardiac MR tagging super resolution](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30422)  
+  *Sun C, Thornburgh C, Wang Y, Kumar S, Altes TA.*  
+  *Magnetic Resonance in Medicine, 2025; 94(1):362–372.*
 
 
